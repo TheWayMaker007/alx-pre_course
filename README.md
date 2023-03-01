@@ -7,7 +7,7 @@ I will glad for any _guidance & corrections_ from a __pro__ going through my wor
 This is my *very first* time of using GitHub, and i will be doing some updates as i go up this ladder.
 
 
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate FULL-STACK developer to be</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
