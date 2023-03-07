@@ -9,5 +9,5 @@ This is my *very first* time of using GitHub, and i will be doing some updates a
 
 <h3 align="center">A passionate FULL-STACK developer to be</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 
